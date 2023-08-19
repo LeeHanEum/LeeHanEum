@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#2F2625?style=for-the-badge&logo=appveyor&logoColor=#b51e00"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/#2F2625-#007fb5?style=for-the-badge&logo=appveyor&logoColor=#b51e00"/></a>
 
 
