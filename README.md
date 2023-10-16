@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/swagger-green?style=for-the-badge&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/jetbrains IDE-red?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 <br><br><br>
 
 
