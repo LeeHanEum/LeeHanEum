@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=Backend%20Developer%20HanEum&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Backend%20Developer%20HanEum&fontSize=30)
 
 ## What I've got!
 ### Back-end
