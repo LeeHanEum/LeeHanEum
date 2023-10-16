@@ -25,10 +25,12 @@
 <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/swagger-green?style=for-the-badge&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white"/>
+<br><br><br>
 
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHanEum&layout=compact)
+<br><br><br>
 
 ## My Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanEum&count_private=true&show_icons=true)
