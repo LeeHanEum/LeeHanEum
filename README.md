@@ -2,6 +2,19 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Backend%20Developer%20HanEum&fontSize=30)
 
+## Introduction
+### My career
+- 경기대학교 AI 컴퓨터 공학부 소속 2022.3~
+- 경기대학교 개발 동아리 C-LAB 소속 2022.9~
+- 경기대학교 개발 동아리 C-LAB 운영진 2023.9~
+- 경기대학교 개발 동아리 C-LAB CORE TEAM 2023.9~
+
+### Awards
+- 2023 소프트웨어 개발 보안 경진 대회 최우수상
+
+### Lisence
+- CSTS (SW 테스트 전문가) 자격증
+
 ## What I've got!
 ### Back-end
 
