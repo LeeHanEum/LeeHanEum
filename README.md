@@ -1,12 +1,7 @@
 <div>
-- 경기대학교 AI 컴퓨터 공학부 소속 2022.3~
-- 경기대학교 개발 동아리 C-LAB 소속 2022.9~
-- 경기대학교 개발 동아리 C-LAB 운영진 2023.9~
-- 경기대학교 개발 동아리 C-LAB CORE TEAM 1기
-- 2023 소프트웨어 개발 보안 경진 대회 최우수상
-- CSTS (SW 테스트 전문가) 자격증
-
-
+    
+### Services
+[![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white"/>
