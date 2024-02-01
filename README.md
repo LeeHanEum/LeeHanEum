@@ -6,6 +6,7 @@
 [![하남시장애인체육회](https://img.shields.io/badge/경기도%20하남시%20장애인%20체육회-홈페이지%20개발-9cc)](http://hanamsad.or.kr)
 <br>
 [![C-Lab](https://img.shields.io/badge/경기대학교%20개발동아리-씨랩%20페이지%20개발-2aa)](https://www.clab.page)
+<br><span>- 클릭하면 링크로 이동합니다.</span>
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white"/>
