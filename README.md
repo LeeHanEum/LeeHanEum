@@ -1,4 +1,5 @@
 <div>
+    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="25%"/>
     
 ### Services 
 [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
@@ -7,6 +8,8 @@
 <br>
 [![C-Lab](https://img.shields.io/badge/경기대학교%20개발동아리-씨랩%20페이지%20개발-2aa)](https://www.clab.page)
 <br><span>- 클릭하면 링크로 이동합니다.</span>
+
+
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white"/>
@@ -42,8 +45,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=leehaneum&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-<br><br><br>
-<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="50%"/>
 </div>
 
 
