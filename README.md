@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="30%"/>
+    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="27%"/>
     
 ### Services 
 [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/jetbrains IDE-red?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-<br><br><br>
+<br><br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehaneum&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
