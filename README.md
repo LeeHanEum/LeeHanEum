@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="27%"/>
+    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="28%"/>
     
 ### Services 
 [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
