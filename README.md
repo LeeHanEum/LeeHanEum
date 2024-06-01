@@ -9,8 +9,12 @@
 [![C-Lab](https://img.shields.io/badge/경기대학교%20개발동아리-씨랩%20페이지%20개발-2aa)](https://www.clab.page)
 <br><span>- 클릭하면 링크로 이동합니다.</span>
 
+### Career
+<img src="https://img.shields.io/badge/Depromeet%20디프만%20백엔드%20개발자-003545?style=for-the-badge" height="40"/><br>
+<img src="https://img.shields.io/badge/CLab%20CoreTeam%20백엔드%20개발자-black?style=for-the-badge" height="40"/>
+
 ### My Tech Stack
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/NGNIX-009639?style=for-the-badge&logo=NGINX&logoColor=white" height="24"/>
