@@ -14,7 +14,7 @@
 - <span>C-Lab core-team 백엔드 개발자(2023)</span>
 
 ### My Tech Stack
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="24"/>
 <br>
