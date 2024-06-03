@@ -10,8 +10,8 @@
 <br><span>- 클릭하면 링크로 이동합니다.</span>
 
 ### Career
-- <span>depromeet 15기 백엔드 개발자(2024)</span><br>
-- <span>C-Lab core-team 백엔드 개발자(2023)</span>
+- <span>depromeet 15기 Server Engineer(2024)</span><br>
+- <span>C-Lab core-team Server Engineer(2023)</span>
 
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
