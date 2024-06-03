@@ -10,7 +10,7 @@
 <br><span>- 클릭하면 링크로 이동합니다.</span>
 
 ### Career
-- <span>depromeet 15기 Server Engineer(2024)</span><br>
+- <span>depromeet 15th Server Engineer(2024)</span><br>
 - <span>C-Lab core-team Server Engineer(2023)</span>
 
 ### My Tech Stack
