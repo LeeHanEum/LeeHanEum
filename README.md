@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="28%"/>
+    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="30%"/>
     
 ### 📲 Services 
 [![하남시장애인체육회](https://img.shields.io/badge/경기도%20하남시%20장애인%20체육회-홈페이지%20개발-9cc)](http://hanamsad.or.kr)
@@ -32,14 +32,6 @@
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="26"/>
-<br><br><br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehaneum&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=leehaneum&rank_icon=github&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=55% />
-</a>
 </div>
 
 
