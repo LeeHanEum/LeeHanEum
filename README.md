@@ -6,6 +6,11 @@
 <br>
 [![C-Lab](https://img.shields.io/badge/경기대학교%20개발동아리-씨랩%20페이지%20개발-2aa)](https://www.clab.page)
 
+### 🔥Projects
+[![소개딩](https://img.shields.io/badge/의류기부%20플랫폼-Re:born-d58)](https://github.com/Don-tEuhRa) 
+<br>
+[![캡스톤](https://img.shields.io/badge/GPT%20대화형%20태블릿%20메뉴판-NiceToMenu-d77)]() 
+
 ### 🏆Awards
 [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
 <br>
