@@ -19,8 +19,8 @@
 
 ### 👨🏻‍💻Career
 📍<span><a href="https://github.com/depromeet">depromeet</a> 15th Server Engineer(2024)</span><br>
-📍<span>C-Lab core-team Server Engineer(2023)</span><br>
-📍<span>C-Lab Management Team(2023~)</span><br>
+📍<span><a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team Server Engineer(2023)</span><br>
+📍<span><a href="https://github.com/KGU-C-Lab">C-Lab</a> Management Team(2023~)</span><br>
 
 ### 🔨My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
