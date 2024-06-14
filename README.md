@@ -18,7 +18,7 @@
 <br>
 
 ### 👨🏻‍💻Career
-📍<span>depromeet 15th Server Engineer(2024)</span><br>
+📍<span><a href="https://github.com/depromeet">depromeet</a> 15th Server Engineer(2024)</span><br>
 📍<span>C-Lab core-team Server Engineer(2023)</span><br>
 📍<span>C-Lab Management Team(2023~)</span><br>
 
