@@ -8,6 +8,7 @@
 
 ### 🔥Projects
 [![소개딩](https://img.shields.io/badge/의류기부%20플랫폼-Re:born-d58)](https://github.com/Don-tEuhRa) 
+[![슬로생](https://img.shields.io/badge/고령자%20의료%20서비스-슬기로운%20노후생활:슬로생-a79)]() 
 <br>
 [![캡스톤](https://img.shields.io/badge/GPT%20대화형%20태블릿%20메뉴판-NiceToMenu-d77)]() 
 
