@@ -1,6 +1,25 @@
 <div>
     <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="30%"/>
-    
+
+### 👨🏻‍💻Career
+<table border="0">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0238fd66-f23e-44e0-b731-57ea3c9a5480" width="50"></td>
+    <td>📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 (2024)</span></td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/917f51fa-1ec5-45ce-9e1c-5919b7f73abe" width="50"></td>
+    <td>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 (2023)</span><br>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 (2023~)</span><br>
+    </td>
+  </tr>
+</table>
+
+
 ### 📲 Services 
 [![하남시장애인체육회](https://img.shields.io/badge/경기도%20하남시%20장애인%20체육회-홈페이지%20개발-9cc)](https://hanamsad.or.kr)
 <br>
@@ -17,11 +36,6 @@
 <br>
 [![캡스톤](https://img.shields.io/badge/2024년%20경기대학교%20기초%20캡스톤-금상-8cb)]() 
 <br>
-
-### 👨🏻‍💻Career
-📍<span>연합 IT 개발 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 (2024)</span><br>
-📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 (2023)</span><br>
-📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 (2023~)</span><br>
 
 ### 🔨My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
