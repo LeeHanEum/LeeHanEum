@@ -19,9 +19,9 @@
 <br>
 
 ### 👨🏻‍💻Career
-📍<span>연합 IT 개발 동아리<a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 (2024)</span><br>
-📍<span>개발 동아리<a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 (2023)</span><br>
-📍<span>개발 동아리<a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 (2023~)</span><br>
+📍<span>연합 IT 개발 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 (2024)</span><br>
+📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 (2023)</span><br>
+📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 (2023~)</span><br>
 
 ### 🔨My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
