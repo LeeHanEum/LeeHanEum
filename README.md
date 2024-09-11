@@ -1,5 +1,4 @@
 <div>
-    <img align="right" src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="30%"/>
 
 ### 👨🏻‍💻Career
 <table border="0">
