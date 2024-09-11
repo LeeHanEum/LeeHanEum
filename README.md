@@ -20,21 +20,18 @@
 
 
 ### 📲 Services 
-[![하남시장애인체육회](https://img.shields.io/badge/경기도%20하남시%20장애인%20체육회-홈페이지%20개발-9cc)]()
-<br>
-[![C-Lab](https://img.shields.io/badge/경기대학교%20개발동아리-씨랩%20페이지%20개발-2aa)](https://www.clab.page)
+- 경기도 하남시 장애인 체육회 홈페이지 개발
+- 경기대학교 개발 동아리 C-Lab 플랫폼 서버 개발
 
 ### 🔥Projects
-[![소개딩](https://img.shields.io/badge/의류기부%20플랫폼-Re:born-d58)](https://github.com/Don-tEuhRa) <br>
-[![슬로생](https://img.shields.io/badge/고령자%20의료%20서비스-슬기로운%20노후생활:슬로생-a79)]() 
-<br>
-[![캡스톤](https://img.shields.io/badge/GPT%20대화형%20태블릿%20메뉴판-NiceToMenu-d77)]() 
+- 의류 기부 플랫폼 Re:Born
+- 고령자 의료 서비스-슬기로운 노후 생활 : 슬로생
+- GPT 대화형 태블릿 메뉴판 : Nice To Menu
 
 ### 🏆Awards
-[![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
-<br>
-[![캡스톤](https://img.shields.io/badge/2024년%20경기대학교%20기초%20캡스톤-금상-8cb)]() 
-<br>
+🏅 제 10회 소프트웨어 개발보안 시큐어코딩 해커톤 최우수상 <br>
+🏅 2024년 경기대학교 기초 캡스톤 금상
+
 
 ### 🔨My Tech Stack
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
