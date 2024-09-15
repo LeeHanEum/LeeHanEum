@@ -35,16 +35,23 @@
 - 모임원들과 더 가까워지는 공간 : moring
 - 경기도 하남시 장애인 체육회 홈페이지 개발
 - 경기대학교 개발 동아리 C-Lab 플랫폼 서버 개발
+  
 
 ### 🔥Projects
 - 의류 기부 플랫폼 Re:Born
 - 고령자 의료 서비스-슬기로운 노후 생활 : 슬로생
 - GPT 대화형 태블릿 메뉴판 : Nice To Menu
+  
 
 ### 🏆Awards
 - 🏅 연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 최우수상
 - 🏅 제 10회 소프트웨어 개발보안 시큐어코딩 해커톤 최우수상
 - 🏅 2024년 경기대학교 기초 캡스톤 금상
+  
+
+### ✍🏻Posts
+- SpringBoot3.2 이후 버전에서 @Valid가 동작하지 않을 때 : <a href="https://medium.com/@ummdev03/springboot3-2-이후-버전에서-valid가-동작하지-않을-때-86969320cc0f">🔗</a>
+
 
 
 ### 🔨My Tech Stack
