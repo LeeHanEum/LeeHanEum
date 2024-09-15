@@ -4,7 +4,10 @@
 <table border="0">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0238fd66-f23e-44e0-b731-57ea3c9a5480" width="50"></td>
-    <td>📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 (2024)</span></td>
+    <td>
+      📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 16기 운영진 2024.9 ~ </span><br>
+      📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 2024.5 ~ 2024.9 </span>
+    </td>
   </tr>
 </table>
 
@@ -12,8 +15,8 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/917f51fa-1ec5-45ce-9e1c-5919b7f73abe" width="50"></td>
     <td>
-      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 (2023)</span><br>
-      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 (2023~)</span><br>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 서버 개발자 2023.9 ~ 2024.1 </span><br>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 2023.8 ~ </span><br>
     </td>
   </tr>
 </table>
@@ -30,7 +33,7 @@
 - GPT 대화형 태블릿 메뉴판 : Nice To Menu
 
 ### 🏆Awards
-- 🏅 연합 IT 동아리 15기 최우수상
+- 🏅 연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 최우수상
 - 🏅 제 10회 소프트웨어 개발보안 시큐어코딩 해커톤 최우수상
 - 🏅 2024년 경기대학교 기초 캡스톤 금상
 
