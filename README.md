@@ -13,7 +13,16 @@
 
 <table border="0">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/917f51fa-1ec5-45ce-9e1c-5919b7f73abe" width="50"></td>
+    <td><img width="50" src="https://github.com/user-attachments/assets/63d107f7-8713-4489-8918-45338952de60"></td>
+    <td>
+      📍<span>구름톤 유니브 미르미 3기 서버 개발자 2024.7 ~ </span>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td><img width="50" src="https://github.com/user-attachments/assets/e80f7120-2fbe-4cdd-bc4a-4e107e53d0f1"></td>
     <td>
       📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 2023.8 ~ </span><br>
       📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 1기 서버 개발자 2023.9 ~ 2024.1 </span><br>
