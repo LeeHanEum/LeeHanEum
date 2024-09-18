@@ -25,7 +25,7 @@
     <td><img width="50" src="https://github.com/user-attachments/assets/e80f7120-2fbe-4cdd-bc4a-4e107e53d0f1"></td>
     <td>
       📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 2023.8 ~ </span><br>
-      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> core-team 1기 서버 개발자 2023.9 ~ 2024.1 </span><br>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> Core-Team 1기 서버 개발자 2023.9 ~ 2024.1 </span><br>
     </td>
   </tr>
 </table>
