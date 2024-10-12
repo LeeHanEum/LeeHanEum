@@ -6,7 +6,7 @@
     <td><img src="https://github.com/user-attachments/assets/0238fd66-f23e-44e0-b731-57ea3c9a5480" width="50"></td>
     <td>
       📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 16기 운영진 2024.9 ~ </span><br>
-      📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 개발자 2024.5 ~ 2024.9 </span>
+      📍<span>연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 서버 파트 2024.5 ~ 2024.9 </span>
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@
   <tr>
     <td><img width="50" src="https://github.com/user-attachments/assets/63d107f7-8713-4489-8918-45338952de60"></td>
     <td>
-      📍<span>구름톤 유니브 미르미 3기 서버 개발자 2024.7 ~ </span>
+      📍<span>구름톤 유니브 미르미 3기 서버 파트 2024.7 ~ </span>
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
     <td><img width="50" src="https://github.com/user-attachments/assets/e80f7120-2fbe-4cdd-bc4a-4e107e53d0f1"></td>
     <td>
       📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> 운영진 2023.8 ~ </span><br>
-      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> Core-Team 1기 서버 개발자 2023.9 ~ 2024.1 </span><br>
+      📍<span>개발 동아리 <a href="https://github.com/KGU-C-Lab">C-Lab</a> Core-Team 1기 서버 파트 2023.9 ~ 2024.1 </span><br>
     </td>
   </tr>
 </table>
