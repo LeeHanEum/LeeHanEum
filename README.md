@@ -32,10 +32,10 @@
 
 
 ### 📲 Services 
-- 모임원들과 더 가까워지는 공간 : moring
-- 파주시 행복 마라톤 접수 시스템
+- 모임원들과 더 가까워지는 공간 : moring <a href="https://www.moring.one/auth">🔗</a>
+- 파주시 행복 마라톤 신청 시스템
 - 경기도 하남시 장애인 체육회 홈페이지
-- 경기대학교 개발 동아리 C-Lab 플랫폼 서버
+- 경기대학교 개발 동아리 C-Lab 플랫폼 서버 : <a href="https://www.clab.page">🔗</a>
   
 
 ### 🔥Projects
