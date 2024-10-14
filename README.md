@@ -36,6 +36,7 @@
 - 파주시 행복 마라톤 신청 시스템
 - 경기도 하남시 장애인 체육회 홈페이지
 - 경기대학교 개발 동아리 C-Lab 플랫폼 서버 : <a href="https://www.clab.page">🔗</a>
+- 부영이 : 부산 영화 이야기 <a href="https://play.google.com/store/apps/details?id=com.eoyeongbooyeong.booyoungee">🔗</a>
   
 
 ### 🔥Projects
