@@ -17,17 +17,12 @@
 - 🏅 **10th Software SecureCoding Hackaton Best Excellence Prize** <sub><sup>의류 기부 플랫폼 Re:Born</sup></sub>
 - 🏅 **2024 Kyonggi Univ. Pre-Capstone Gold Prize** <sub><sup>GPT 대화형 태블릿 메뉴판 : Nice To Menu</sup></sub>
 
-<!--
-<div>
 
-### 📲 Services 
-- 모임원들과 더 가까워지는 공간 : moring <a href="https://www.moring.one/auth">🔗</a>
-- 파주시 행복 마라톤 신청 시스템
-- 경기도 하남시 장애인 체육회 홈페이지
-- 경기대학교 개발 동아리 C-Lab 플랫폼 서버 : <a href="https://www.clab.page">🔗</a>
-- 부영이 : 부산 영화 이야기 <a href="https://play.google.com/store/apps/details?id=com.eoyeongbooyeong.booyoungee">🔗</a>
--->
-  
+### **📲 Services**
+- **Paju-si Sports Council Marathon Apply System**
+- **Hanam-si Paralympic Sports Council Official Website**
+- **KGU C-Lab Platform Server** : <a href="https://www.clab.page">🔗</a>
+
 
 ### **✍🏻 Posts**
 - **When @Valid does not work in Spring Boot 3.2 and later** : <a href="https://medium.com/@ummdev03/springboot3-2-이후-버전에서-valid가-동작하지-않을-때-86969320cc0f">🔗</a>
