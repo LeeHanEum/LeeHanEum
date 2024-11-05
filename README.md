@@ -12,13 +12,12 @@
 <img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **C-Lab Management Team** <sub><sup>2023.08 - ing</sup></sub>
 
 
-<!--
 ### **🏆 Awards**
-- 🏅 연합 IT 동아리 <a href="https://github.com/depromeet">디프만</a> 15기 최우수상
-- 🏅 제 10회 소프트웨어 개발보안 시큐어코딩 해커톤 최우수상
-- 🏅 2024년 경기대학교 기초 캡스톤 금상
+- 🏅 **Deprommet 15th Best Excellence Prize** <sub><sup>모임원들과 더 가까워지는 공간 : moring</sup></sub>
+- 🏅 **10th Software SecureCoding Hackaton Best Excellence Prize** <sub><sup>의류 기부 플랫폼 Re:Born</sup></sub>
+- 🏅 **2024 Kyonggi Univ. Pre-Capstone Gold Prize** <sub><sup>GPT 대화형 태블릿 메뉴판 : Nice To Menu</sup></sub>
 
-
+<!--
 <div>
 
 ### 📲 Services 
@@ -27,20 +26,12 @@
 - 경기도 하남시 장애인 체육회 홈페이지
 - 경기대학교 개발 동아리 C-Lab 플랫폼 서버 : <a href="https://www.clab.page">🔗</a>
 - 부영이 : 부산 영화 이야기 <a href="https://play.google.com/store/apps/details?id=com.eoyeongbooyeong.booyoungee">🔗</a>
-
-
-### 🔥Projects
-- 의류 기부 플랫폼 Re:Born
-- 고령자 의료 서비스-슬기로운 노후 생활 : 슬로생
-- GPT 대화형 태블릿 메뉴판 : Nice To Menu
 -->
   
-<br>
 
 ### **✍🏻 Posts**
-- SpringBoot3.2 이후 버전에서 @Valid가 동작하지 않을 때 : <a href="https://medium.com/@ummdev03/springboot3-2-이후-버전에서-valid가-동작하지-않을-때-86969320cc0f">🔗</a>
+- **When @Valid does not work in Spring Boot 3.2 and later** : <a href="https://medium.com/@ummdev03/springboot3-2-이후-버전에서-valid가-동작하지-않을-때-86969320cc0f">🔗</a>
 
-<br>
 
 ### 🔨My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis&theme=dark)](https://skillicons.dev) <br>
