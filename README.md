@@ -36,6 +36,7 @@
 -->
   
 <br>
+
 ### **✍🏻 Posts**
 - SpringBoot3.2 이후 버전에서 @Valid가 동작하지 않을 때 : <a href="https://medium.com/@ummdev03/springboot3-2-이후-버전에서-valid가-동작하지-않을-때-86969320cc0f">🔗</a>
 
