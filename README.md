@@ -9,7 +9,7 @@
 
 <img src="https://github.com/user-attachments/assets/7879874b-44a0-4cce-933c-6dec70449de9" width="25"> **C-Lab Core Team Server Engineer** <sub><sup>2023.09 - 2024.01</sup></sub>
 
-<img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **C-Lab Management Team** <sub><sup>2023.08 - ing</sup></sub>
+<img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **C-Lab Management Team** <sub><sup>2023.08 - 2024.12</sup></sub>
 
 
 ### **🏆 Awards**
