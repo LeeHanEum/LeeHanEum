@@ -1,9 +1,9 @@
 ### **👨🏻‍💻 Career**
 <img src="https://github.com/user-attachments/assets/5dd020da-b13e-4519-8482-6fea7675e91a" width="25"> **Depromeet 16th Management Team** <sub><sup>2024.10 - ing</sup></sub>
 
-<img src="https://github.com/user-attachments/assets/953e0f5a-2650-4e19-95c4-660dbbb6d67a" width="25"> **Depromeet 15th Server Engineer**  <sub><sup>2024.05 - 2024.09</sup></sub>
-
 <img src="https://github.com/user-attachments/assets/4afab059-66bf-4f48-b27b-9f5bb7f4a38c" width="25"> **Kyonggi Univ. AI Computer Science Development Team** <sub><sup>2024.10 - ing</sup></sub>
+
+<img src="https://github.com/user-attachments/assets/953e0f5a-2650-4e19-95c4-660dbbb6d67a" width="25"> **Depromeet 15th Server Engineer**  <sub><sup>2024.05 - 2024.09</sup></sub>
 
 <img src="https://github.com/user-attachments/assets/63d107f7-8713-4489-8918-45338952de60" width="25"> **9oormthonUNIV 3th Server Enginner** <sub><sup>2024.07 - 2024.11</sup></sub>
 
