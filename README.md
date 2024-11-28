@@ -1,5 +1,5 @@
 ### **👨🏻‍💻 Career**
-<img src="https://github.com/user-attachments/assets/5dd020da-b13e-4519-8482-6fea7675e91a" width="25"> **Depromeet 16th Management Team** <sub><sup>2024.10 - ing</sup></sub>
+<img src="https://github.com/user-attachments/assets/5dd020da-b13e-4519-8482-6fea7675e91a" width="25"> **Depromeet 16th Organizer** <sub><sup>2024.10 - ing</sup></sub>
 
 <img src="https://github.com/user-attachments/assets/4afab059-66bf-4f48-b27b-9f5bb7f4a38c" width="25"> **Kyonggi Univ. AI Computer Science Development Team** <sub><sup>2024.10 - ing</sup></sub>
 
