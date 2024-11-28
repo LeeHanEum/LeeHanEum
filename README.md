@@ -14,7 +14,7 @@
 
 ### **🏆 Awards**
 - 🏅 **Deprommet 15th Best Excellence Prize** <sub><sup>모임원들과 더 가까워지는 공간 : moring</sup></sub>
-- 🏅 **10th Software SecureCoding Hackaton Best Excellence Prize** <sub><sup>의류 기부 플랫폼 Re:Born</sup></sub>
+- 🏅 **10th Software SecureCoding Hackathon Best Excellence Prize** <sub><sup>의류 기부 플랫폼 Re:Born</sup></sub>
 - 🏅 **2024 Kyonggi Univ. Pre-Capstone Gold Prize** <sub><sup>GPT 대화형 태블릿 메뉴판 : Nice To Menu</sup></sub>
 
 
