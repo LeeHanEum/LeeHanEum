@@ -31,7 +31,7 @@
 
 
 ### 🔨My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,githubactions&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,githubactions,grafana&theme=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev)
 </div>
 
