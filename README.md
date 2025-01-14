@@ -1,4 +1,4 @@
-**Community**
+**👨🏻‍💻Community**
 - @depromeet 디프만 16기 Organizer & 서버 개발자 <sub><sup>2024.10 - ing</sup></sub>
 - @depromeet 디프만 15기 서버 개발자 <sub><sup>2024.05 - 2024.09</sup></sub>
 - @kgu-developers 경기대학교 AI 컴퓨터공학부 홈페이지 개발팀 <sub><sup>2024.10 - ing</sup></sub>
