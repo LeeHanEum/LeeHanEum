@@ -1,3 +1,12 @@
+**Community**
+- @depromeet 디프만 16기 Organizer & 서버 개발자 <sub><sup>2024.10 - ing</sup></sub>
+- @depromeet 디프만 15기 서버 개발자 <sub><sup>2024.05 - 2024.09</sup></sub>
+- @kgu-developers 경기대학교 AI 컴퓨터공학부 커뮤니티 개발팀 <sub><sup>2024.10 - ing</sup></sub>
+- @9roomthon-univ 구름톤 유니브 3기 서버 개발자 <sub><sup>2024.07 - 2024.11</sup></sub>
+- @kgu-clab C-Lab Organizer <sub><sup>2023.08 - ing</sup></sub>
+
+
+<!--
 ### **👨🏻‍💻 Career**
 <img src="https://github.com/user-attachments/assets/9a3e81ad-daa3-4e7a-bf7b-7ad08dd750ad" width="25"> **Depromeet 16th Organizer & Server Engineer** <sub><sup>2024.10 - ing</sup></sub>
 
@@ -9,7 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **KGU C-Lab** <sub><sup>2022.09 - ing</sup></sub>
 
-<!--
+
 <img src="https://github.com/user-attachments/assets/7879874b-44a0-4cce-933c-6dec70449de9" width="25"> **C-Lab Core Team Server Engineer** <sub><sup>2023.09 - 2024.01</sup></sub>
 
 <img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **C-Lab President** <sub><sup>2025.01 - ing</sup></sub>
@@ -36,6 +45,6 @@
 ### 🔨My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,githubactions,grafana&theme=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev) -->
-</div>
+
 
 
