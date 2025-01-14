@@ -7,6 +7,9 @@
 
 <img src="https://github.com/user-attachments/assets/63d107f7-8713-4489-8918-45338952de60" width="25"> **9oormthonUNIV 3th Server Engineer** <sub><sup>2024.07 - 2024.11</sup></sub>
 
+<img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **KGU C-Lab** <sub><sup>2022.09 - ing</sup></sub>
+
+<!--
 <img src="https://github.com/user-attachments/assets/7879874b-44a0-4cce-933c-6dec70449de9" width="25"> **C-Lab Core Team Server Engineer** <sub><sup>2023.09 - 2024.01</sup></sub>
 
 <img src="https://github.com/user-attachments/assets/02809afd-661a-487f-994d-4454bdd83456" width="25"> **C-Lab President** <sub><sup>2025.01 - ing</sup></sub>
@@ -32,7 +35,7 @@
 
 ### 🔨My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,githubactions,grafana&theme=dark)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev) -->
 </div>
 
 
