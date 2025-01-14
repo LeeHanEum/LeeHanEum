@@ -1,7 +1,7 @@
 **Community**
 - @depromeet 디프만 16기 Organizer & 서버 개발자 <sub><sup>2024.10 - ing</sup></sub>
 - @depromeet 디프만 15기 서버 개발자 <sub><sup>2024.05 - 2024.09</sup></sub>
-- @kgu-developers 경기대학교 AI 컴퓨터공학부 커뮤니티 개발팀 <sub><sup>2024.10 - ing</sup></sub>
+- @kgu-developers 경기대학교 AI 컴퓨터공학부 홈페이지 개발팀 <sub><sup>2024.10 - ing</sup></sub>
 - @9roomthon-univ 구름톤 유니브 3기 서버 개발자 <sub><sup>2024.07 - 2024.11</sup></sub>
 - @kgu-clab C-Lab Organizer <sub><sup>2023.08 - ing</sup></sub>
 
